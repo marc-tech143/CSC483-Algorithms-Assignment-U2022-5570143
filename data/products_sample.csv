@@ -1,0 +1,21 @@
+productId,productName,category,price,stockQuantity
+1023,Laptop Pro 1023,Laptop,245000.00,8
+5471,UltraPhone 5471,Phone,180000.00,25
+12834,SmartTab 12834,Tablet,95000.00,14
+19201,Gaming PC 19201,Desktop,380000.00,3
+27653,Wireless Headset 27653,Audio,45000.00,40
+34812,4K Monitor 34812,Display,210000.00,6
+41290,Mechanical Keyboard 41290,Keyboard,28000.00,55
+58734,Optical Mouse 58734,Mouse,12000.00,80
+67193,USB-C Hub 67193,Accessories,18000.00,32
+75820,NVMe SSD 75820,Storage,85000.00,20
+82341,Smart Watch 82341,Wearable,75000.00,15
+91002,Bluetooth Speaker 91002,Audio,32000.00,48
+105673,Action Camera 105673,Camera,125000.00,9
+114529,Drone X 114529,Electronics,350000.00,2
+123847,VR Headset 123847,Electronics,285000.00,4
+138204,Router Pro 138204,Networking,65000.00,18
+147391,Portable Charger 147391,Accessories,15000.00,90
+156820,LED Strip 156820,Accessories,8000.00,120
+163741,Smart Bulb 163741,Smart Home,5000.00,200
+172093,Web Cam HD 172093,Accessories,22000.00,35

@@ -1,0 +1,21 @@
+# Compiled Java output
+out/
+*.class
+*.jar
+
+# IDE configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.swp
+
+# Build tools
+target/
+build/
+
+# OS artefacts
+.DS_Store
+Thumbs.db
